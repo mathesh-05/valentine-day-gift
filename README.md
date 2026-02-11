@@ -1,6 +1,6 @@
 # 💝 Valentine's Day Proposal Prank App
 
-Demo: https://my-valentine-day-gift.netlify.app/
+Demo: https://my-valentine-day-gift.netflify.app/
 
 A fun, interactive React application designed to prank your special someone on Valentine's Day! 
 
